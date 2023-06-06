@@ -11,7 +11,7 @@ I'm a student of Binus University and curently working as data engineer.
 -->
 -  💼 Reach me on <a href="https://www.linkedin.com/in/paramita-daniswari-271619144/">LinkedIn</a> 
 -  🌱 I’m currently learning Big Data Technology and probably share it on <a href="https://medium.com/@daniswari-paramita/">Medium</a> 
--  🦄 Sneak Peek of my life on <a href="https://www.instagram.com/daniswari.paramita/">Instagram</a>
+-  🦄 Sneak Peek into my life on <a href="https://www.instagram.com/daniswari.paramita/">Instagram</a>
 <!--
 **danisw/danisw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
